@@ -20,7 +20,7 @@
             <ion-item
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/giordanna/boilerplate-nuxt-ionic4"
+              href="https://github.com/giordanna/boilerplate-nuxtjs-ionic4"
             >
               <ion-icon slot="start" name="logo-github"></ion-icon>
               <ion-label>Github</ion-label>
