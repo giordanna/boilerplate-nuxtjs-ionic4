@@ -1,4 +1,4 @@
-# Nuxt.js + Ionic 4 boilerplate
+# typescript-ionic-nuxt-app [![Build Status](https://travis-ci.org/daggerok/typescript-ionic-nuxt-app.svg?branch=master)](https://travis-ci.org/daggerok/typescript-ionic-nuxt-app)
 
 > Projeto boilerplate para desenvolver sites SPA com Nuxt.js utilizando componentes do Ionic 4.
 

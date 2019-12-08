@@ -5,10 +5,12 @@
   "author": "Giordanna",
   "private": true,
   "scripts": {
+    "clean": "rimraf dist",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "predeploy": "cross-env BASE_HREF='/typescript-ionic-nuxt-app/' npm run generate"
   },
   "dependencies": {
     "@ionic/core": "4.11.5",
@@ -18,7 +20,9 @@
   },
   "devDependencies": {
     "@nuxt/typescript-build": "0.3.10",
+    "cross-env": "6.0.3",
     "node-sass": "4.13.0",
+    "rimraf": "3.0.0",
     "sass-loader": "8.0.0"
   }
 }
