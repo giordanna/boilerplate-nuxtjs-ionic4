@@ -21,4 +21,7 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## resources
+
+* https://forum.ionicframework.com/t/is-it-possible-to-use-ionic-with-nuxt/163202/2
+* https://github.com/giordanna/boilerplate-nuxtjs-ionic4
