@@ -21,7 +21,16 @@ $ npm run start
 $ npm run generate
 ```
 
+## other repositories
+
+* https://github.com/daggerok/vue-ionic-example
+* https://github.com/daggerok/ionic-nuxt-ap
+* https://github.com/daggerok/nuxt-examples
+* https://github.com/daggerok/vue-examples
+
 ## resources
 
+* https://ionicframework.com/docs/installation/cdn
+* [Nuxt.js docs](https://nuxtjs.org)
 * https://forum.ionicframework.com/t/is-it-possible-to-use-ionic-with-nuxt/163202/2
 * https://github.com/giordanna/boilerplate-nuxtjs-ionic4
