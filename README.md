@@ -1,4 +1,4 @@
-# Nuxt.js + Ionic 4 boilerplate
+# typescript-ionic-nuxt-app [![Build Status](https://travis-ci.org/daggerok/typescript-ionic-nuxt-app.svg?branch=master)](https://travis-ci.org/daggerok/typescript-ionic-nuxt-app)
 
 > Projeto boilerplate para desenvolver sites SPA com Nuxt.js utilizando componentes do Ionic 4.
 
@@ -21,4 +21,16 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## other repositories
+
+* https://github.com/daggerok/vue-ionic-example
+* https://github.com/daggerok/ionic-nuxt-ap
+* https://github.com/daggerok/nuxt-examples
+* https://github.com/daggerok/vue-examples
+
+## resources
+
+* https://ionicframework.com/docs/installation/cdn
+* [Nuxt.js docs](https://nuxtjs.org)
+* https://forum.ionicframework.com/t/is-it-possible-to-use-ionic-with-nuxt/163202/2
+* https://github.com/giordanna/boilerplate-nuxtjs-ionic4
